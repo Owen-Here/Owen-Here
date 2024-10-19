@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   
-  <h1 float="left">
+  <h1 float="right">
     <img src="Owen-Googie-Side.png" style="width: 150px;z-index: 1;left:;">
     <p>Owen-Here's Github</p>
   </h1>
