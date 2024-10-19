@@ -4,6 +4,7 @@
       <style>
         * p {
           font-family: "Copperplate", fantasy;
+          color: white;
         }
       </style>
 
