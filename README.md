@@ -1,3 +1,3 @@
 <div style="width: 100%;">
-  <img src="README.svg" style="width: 100%;" alt="Click to see the source">
+  Hello I'm Owen a Lua/Rust focussed developer of games, websites, apps, and wherever my mind takes me
 </div>
